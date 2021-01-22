@@ -11,3 +11,11 @@ So why wait? Download it today!
 # How do you install it?
 On the right side of your screen, there should be a thing called releases, install the exe file.
 Ignore the fact that it flags windows defender, it opens the database in your default browser so I'd understand why windows defender flags it.
+
+# Coming soon!
+Hypixel unbanned checker: Tonight probs
+COMPLETE REWORK: next week
+
+# Oh theres a rework coming soon? Whats gonna be in it?
+1. Connecting to the api
+2. A new ui
