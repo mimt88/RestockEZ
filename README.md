@@ -23,4 +23,4 @@ COMPLETE REWORK: next week
 2. A new ui
 # I found a bug! How can I contact you?
 1. Contact me on discord, I'm pretty active on there. mimt88#4595
-2. Open a issue!
+2. If you don't have discord, open a issue!
